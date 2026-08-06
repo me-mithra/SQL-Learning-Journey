@@ -1,5 +1,5 @@
 -- =======================================================================================
--- Day 04 - Aggregate Functions
+-- Day 03 - Aggregate Functions
 --Aggregate functions take several rows and return one summarized result
 -- Database : sql_learning (PostgreSQL)
 -- Dataset  : https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
