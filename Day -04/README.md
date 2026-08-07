@@ -25,7 +25,9 @@ Practiced the above concepts using the Retail Sales Dataset and PostgreSQL.
 ## 🧩 LeetCode Problems Solved
 
 1.Queries Quality and Percentage (https://leetcode.com/problems/queries-quality-and-percentage/description/)
+
 2.Percentage of Users Attended a Contest (https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)
+
 3.Project Employees I (https://leetcode.com/problems/project-employees-i/description/)
 
 ## 📝 Reflection
